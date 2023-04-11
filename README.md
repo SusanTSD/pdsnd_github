@@ -16,4 +16,3 @@ bikeshare.py
 _Reviewer comments_
 
 #Editing for the Section III task-1.
-#Editing for the Section III task-2.
